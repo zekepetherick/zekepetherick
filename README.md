@@ -1,0 +1,4 @@
+- 👋 Hey, I’m Swifty
+- 👀 I’m interested in programming/coding and would like to acheive my goal by getting a job in that industry.
+- 🌱 I’m currently learning Python and Front end developement and am finding it very fun to learn!
+- 📫 You can contact me through discord which is Swifty#1000
