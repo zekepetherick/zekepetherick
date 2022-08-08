@@ -1,4 +1,4 @@
-- 👋 Hey, my name is Zeke! I'm currently 16 years old.
-- 👀 I’m interested in programming/coding and would like to acheive my goal by getting a job in that industry.
-- 🌱 I’m currently learning Python and Front end developement and am finding it very fun to learn!
+- 👋 Hello there, my name is Zeke! I am almost sixteen years old.
+- 👀 I'm interested in programming/coding and hope to achieve my goal by working in that field.
+- 🌱 I'm currently learning Python and Front End Development and having a great time doing it!
 - 📫 You can contact me through discord which is Swifty#1000
